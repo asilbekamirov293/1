@@ -1,0 +1,96 @@
+.box {
+    background-color: palevioletred;
+    border-top-left-radius: 40px;
+    width: 100px;
+    height: 100px;
+}
+.box2 {
+    background-color: palevioletred;
+    border-top-right-radius: 40px;
+    width: 100px;
+    height: 100px;
+}
+.box3 {
+    background-color: palevioletred;
+    border-bottom-right-radius: 40px;
+    width: 100px;
+    height: 100px;
+}
+.box4 {
+    background-color: palevioletred;
+    border-bottom-left-radius: 40px;
+    width: 100px;
+    height: 100px;
+}
+.box5 {
+    background-color: aquamarine;
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+}
+.box6 {
+    background-color: aquamarine;
+    border-radius: 25px;
+    width: 100px;
+    height: 100px;
+}
+.box7 {
+    background-color: aquamarine;
+    border-radius: 35px;
+    width: 100px;
+    height: 100px;
+}
+.box8 {
+    background-color: aquamarine;
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
+.box9 {
+    background-color: magenta;
+    border-radius: 1%;
+    width: 100px;
+    height: 100px;
+}
+.box10 {
+    background-color: magenta;
+    border-radius: 10%;
+    width: 100px;
+    height: 100px;
+}
+.box11 {
+    background-color: magenta;
+    border-radius: 25%;
+    width: 100px;
+    height: 100px;
+}
+.box12 {
+    background-color: magenta;
+    border-radius: 1%;
+    width: 100px;
+    height: 100px;
+}
+.box13 {
+    background-color: rgb(0, 255, 0);
+    border-radius: 20px 0;
+    width: 100px;
+    height: 100px;
+}
+.box14 {
+    background-color: rgb(0, 255, 0);
+    border-radius: 40px 0;
+    width: 100px;
+    height: 100px;
+}
+.box15 {
+    background-color: rgb(0, 255, 0);
+    border-radius: 80px 0;
+    width: 100px;
+    height: 100px;
+}
+.box16 {
+    background-color: rgb(0, 255, 0);
+    border-radius: 100px 0;
+    width: 100px;
+    height: 100px;
+}

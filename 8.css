@@ -1,0 +1,15 @@
+.box {
+    background-color: blueviolet;
+    height: 150px;
+}
+.box2 {
+    background-color: blue;
+}
+.box3 {
+    background-color: yellow;
+    height: 720px;
+}
+.box4 {
+    background-color: black;
+    color: white;
+}

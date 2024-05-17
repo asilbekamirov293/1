@@ -1,0 +1,13 @@
+.box1 {
+    background-color: red;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 60px;
+    border-bottom-left-radius: 80px;
+    border-bottom-right-radius: 40px;
+}
+.box {
+    border: dashed black 3px;
+    width: 250px;
+}

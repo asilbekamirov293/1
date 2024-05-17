@@ -1,0 +1,84 @@
+.box {
+    background-color: azure;
+    border: solid black;
+    border-radius: 5px;
+    width: 200px;
+    height: 70px;
+}
+.box2 {
+    background-color: azure;
+    border: solid black;
+    border-top-left-radius: 40%;
+    width: 200px;
+    height: 70px;
+}
+.box3 {
+    background-color: azure;
+    border: solid black;
+    border-radius: 10px;
+    width: 200px;
+    height: 70px;
+}
+.box4 {
+    background-color: azure;
+    border: solid black;
+    border-radius: 80px 20px;
+    width: 200px;
+    height: 70px;
+}
+.box5 {
+    background-color: azure;
+    border: solid black;
+    border-radius: 20px;
+    width: 200px;
+    height: 70px;
+}
+.box6 {
+    background-color: azure;
+    border: solid black;
+    border-radius: 60px 20px 5px;
+    width: 200px;
+    height: 70px;
+}
+.box7 {
+    background-color: azure;
+    border: solid black;
+    border-radius: 40px;
+    width: 200px;
+    height: 70px;
+}
+.box8 {
+    background-color: azure;
+    border: solid black;
+    border-radius: 60px 20px 5px 90px;
+    width: 200px;
+    height: 70px;
+}
+.box9 {
+    background-color: azure;
+    border: solid black;
+    border-radius: 60px;
+    width: 200px;
+    height: 70px;
+}
+.box10 {
+    background-color: azure;
+    border: solid black;
+    border-radius: 60px/20px;
+    width: 200px;
+    height: 70px;
+}
+.box11 {
+    background-color: azure;
+    border: solid black;
+    border-radius: 13em/13em;
+    width: 200px;
+    height: 70px;
+}
+.box12 {
+    background-color: azure;
+    border: solid black;
+    border-radius: 50%;
+    width: 200px;
+    height: 70px;
+}
